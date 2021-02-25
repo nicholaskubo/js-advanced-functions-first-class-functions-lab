@@ -21,11 +21,3 @@ function fareTripler (int) {
     return 3 * int
 }
 
-function selectDifferentDrivers(drivers, select) {
-    if (select == returnFirstTwoDrivers) {
-        return returnFirstTwoDrivers()
-    }
-    else if (select == returnLastTwoDrivers) {
-        return returnLastTwoDrivers()
-    }
-}

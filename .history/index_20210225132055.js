@@ -22,10 +22,10 @@ function fareTripler (int) {
 }
 
 function selectDifferentDrivers(drivers, select) {
-    if (select == returnFirstTwoDrivers) {
+    if (select = returnFirstTwoDrivers) {
         return returnFirstTwoDrivers()
     }
-    else if (select == returnLastTwoDrivers) {
+    else if (select = returnLastTwoDrivers) {
         return returnLastTwoDrivers()
     }
 }
